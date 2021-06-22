@@ -1,0 +1,14 @@
+body{
+	background-image: url("images/pic.jpg");
+	color:white;
+
+}
+
+#logo{
+	height: 150px;
+}
+
+.panel-body
+{
+	color:black;
+}
